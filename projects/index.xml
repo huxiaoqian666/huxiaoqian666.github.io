@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Introduction</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pet Food</title>
+      <link>/projects/photography/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>/projects/photography/</guid>
+      <description>宠物の美食 秉承让宠物乐享健康品质生活的理念，匠心为犬猫，通过量身定制专业配方,不断带来健康营养的宠物食品</description>
+    </item>
+    
+    <item>
+      <title>Commodity</title>
+      <link>/projects/design/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>/projects/design/</guid>
+      <description>宠物の日用 以“生活因宠物更精彩”为主旨,一直致力于帮助宠物保持自身的健康美丽与寿命延长</description>
+    </item>
+    
+    <item>
+      <title>Cleaning Products</title>
+      <link>/projects/writing/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>/projects/writing/</guid>
+      <description>宠物の清洁 居家保洁和宠物保洁结合,让家庭比干净更&amp;rdquo;净一步</description>
+    </item>
+    
+  </channel>
+</rss>
